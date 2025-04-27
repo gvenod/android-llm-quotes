@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">quote</string>
+    <string name="action_go">Next</string>
+    <string name="quote_title">Quotes</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">get me a quote</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+</resources>
